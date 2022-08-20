@@ -1,0 +1,2 @@
+# Personality_Prediction_Project_with_notebook
+Personality Prediction Project  with Python
